@@ -1,0 +1,1 @@
+"/Library/Developer/CommandLineTools/usr/bin/libtool" -static -no_warning_for_no_symbols -o ../../../libLLVMAVRDisassembler.a CMakeFiles/LLVMAVRDisassembler.dir/AVRDisassembler.cpp.o
